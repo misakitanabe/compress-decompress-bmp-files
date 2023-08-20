@@ -1,0 +1,8 @@
+#include "bmp.h"
+#include "read.h"
+#include "write.h"
+#include "color.h"
+#include "heap.h"
+#include "huffman.h"
+#include "writeCompressed.h"
+#include "readCompressed.h"
